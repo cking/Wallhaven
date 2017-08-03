@@ -1,0 +1,12 @@
+{
+  "name": "Wallhaven",
+  "version": "1.0.0",
+  "description": "Discord Wallhaven Background Changer",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kura",
+  "license": "ISC",
+  "dependencies": {
+    "t7": "^0.3.2"
+  }
+}
